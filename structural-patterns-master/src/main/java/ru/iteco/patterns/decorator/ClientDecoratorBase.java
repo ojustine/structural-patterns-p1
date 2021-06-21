@@ -1,4 +1,4 @@
-package ru.iteco.patterns.decorator.chat;
+package ru.iteco.patterns.decorator;
 
 public abstract class ClientDecoratorBase implements Client {
 	protected Client client;

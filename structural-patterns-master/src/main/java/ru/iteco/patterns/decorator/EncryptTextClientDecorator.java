@@ -1,4 +1,4 @@
-package ru.iteco.patterns.decorator.chat;
+package ru.iteco.patterns.decorator;
 
 public class EncryptTextClientDecorator extends ClientDecoratorBase {
 	public EncryptTextClientDecorator(Client client) {
